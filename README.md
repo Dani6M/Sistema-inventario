@@ -40,7 +40,7 @@ registro de movimientos y administración de productos.
  4. Actualizar el proyecto: Maven - Update project - Force update ....
  5. ejecutar `InventarioApplication.java`
  6. validar que el proyecto corre en  http://localhost:8080
- 7. acceder a la carpeta de front
+ 7. acceder a la carpeta de front (rama development).
  8. abrir una terminal valida e instala dependencias: npm install
  9. ejecutar el proyecto: ng serve
  10. validar que el proyecto front corre en: http://localhost:4200
