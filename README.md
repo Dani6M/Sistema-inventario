@@ -40,6 +40,7 @@ registro de movimientos y administración de productos.
  7. Acceder a la carpeta de front desde VSC
  8. Moverse hasta la carpeta del front
  9. Abrir una terminal valida
+     
  10.Instalar dependencias: npm install
  11.Ejecutar el proyecto: ng serve
  12.Validar que el proyecto front corre en: `http://localhost:4200`
