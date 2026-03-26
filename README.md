@@ -1,9 +1,7 @@
 # Sistema de Inventario
 Proyecto de evaluación - Sistema de Inventario
-
 Aplicación web para la gestión de inventario con control de roles,
 registro de movimientos y administración de productos.
-
 
 ### Backend
 -   Java 17
@@ -26,26 +24,25 @@ registro de movimientos y administración de productos.
 ### Base de Datos
 -   Microsoft SQL Server 2022
 -   JDBC + HikariCP
-
-  ### IDE Utilizado
+- 
+### IDE Utilizado
 -   Spring Tool Suite (Backend)
 -   Visual Studio Code (Frontend)
 -   SQL Server Management Studio (Base de Datos)
 
  ### Configuración y Ejecución
-  
  1. Ejecutar el script  script_inicial.sql
  2. Importar el proyecto en un IDE (STS).
  3. Configurar:  `application.properties`
  4. Actualizar el proyecto: Maven - Update project - Force update ....
- 5. ejecutar `InventarioApplication.java`
- 6. validar que el proyecto corre en  http://localhost:8080
- 7. acceder a la carpeta de front desde VSC
- 8. moverse hasta la carpeta del front
- 9. abrir una terminal valida
- 10. instalar dependencias: npm install
- 11. ejecutar el proyecto: ng serve
- 12. validar que el proyecto front corre en: http://localhost:4200
+ 5. Ejecutar `InventarioApplication.java`
+ 6. Validar que el proyecto corre en  'http://localhost:8080'
+ 7. Acceder a la carpeta de front desde VSC
+ 8. Moverse hasta la carpeta del front
+ 9. Abrir una terminal valida
+ 10.Instalar dependencias: npm install
+ 11.Ejecutar el proyecto: ng serve
+ 12.Validar que el proyecto front corre en: http://localhost:4200
 
 ## Autor
 Daniel Aguilar  
