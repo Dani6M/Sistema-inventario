@@ -24,7 +24,7 @@ registro de movimientos y administración de productos.
 ### Base de Datos
 -   Microsoft SQL Server 2022
 -   JDBC + HikariCP
-- 
+  
 ### IDE Utilizado
 -   Spring Tool Suite (Backend)
 -   Visual Studio Code (Frontend)
@@ -36,13 +36,13 @@ registro de movimientos y administración de productos.
  3. Configurar:  `application.properties`
  4. Actualizar el proyecto: Maven - Update project - Force update ....
  5. Ejecutar `InventarioApplication.java`
- 6. Validar que el proyecto corre en  'http://localhost:8080'
+ 6. Validar que el proyecto corre en  `http://localhost:8080`
  7. Acceder a la carpeta de front desde VSC
  8. Moverse hasta la carpeta del front
  9. Abrir una terminal valida
  10.Instalar dependencias: npm install
  11.Ejecutar el proyecto: ng serve
- 12.Validar que el proyecto front corre en: http://localhost:4200
+ 12.Validar que el proyecto front corre en: `http://localhost:4200`
 
 ## Autor
 Daniel Aguilar  
